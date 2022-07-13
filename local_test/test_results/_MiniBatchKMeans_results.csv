@@ -1,0 +1,7 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,anisotropic,0.8454,0.6423,0.8521,5571.473,0.4509,0.01
+MiniBatchKMeans,equal_variance_blobs,0.9498,0.8128,0.6484,7468.0725,0.5398,0.01
+MiniBatchKMeans,noisy_moons,0.8538,0.4002,0.8288,6400.3894,0.4785,0.01
+MiniBatchKMeans,noisy_circles,0.5004,-0.0001,1.1697,3038.8635,0.3691,0.01
+MiniBatchKMeans,unequal_variance_blobs,0.9462,0.8549,0.5409,24194.1901,0.6519,0.01
+MiniBatchKMeans,no_structure,1.0,0.0,0.8606,3865.4936,0.3797,0.01

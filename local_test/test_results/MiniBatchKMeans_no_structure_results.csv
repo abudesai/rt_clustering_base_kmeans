@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,no_structure,1.0,0.0,0.8606,3865.4936,0.3797,0.01

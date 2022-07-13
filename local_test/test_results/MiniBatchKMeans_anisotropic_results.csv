@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,anisotropic,0.8454,0.6423,0.8521,5571.473,0.4509,0.01

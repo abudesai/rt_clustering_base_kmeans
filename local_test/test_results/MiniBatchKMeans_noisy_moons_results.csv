@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,noisy_moons,0.8538,0.4002,0.8288,6400.3894,0.4785,0.01

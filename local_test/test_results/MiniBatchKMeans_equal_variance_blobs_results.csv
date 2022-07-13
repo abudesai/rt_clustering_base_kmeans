@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,equal_variance_blobs,0.9498,0.8128,0.6484,7468.0725,0.5398,0.01

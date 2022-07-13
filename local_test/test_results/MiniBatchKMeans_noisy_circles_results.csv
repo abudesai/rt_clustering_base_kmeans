@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MiniBatchKMeans,noisy_circles,0.5004,-0.0001,1.1697,3038.8635,0.3691,0.01
